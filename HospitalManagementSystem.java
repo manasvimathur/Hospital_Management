@@ -8,7 +8,7 @@ import static java.lang.Class.forName;
 public class HospitalManagementSystem {
     private static final String url = "jdbc:mysql://localhost:3306/hospital";
     private static final String username = "root";
-    private static final String password = "!Manu2529";
+    private static final String password = "@1abm92£&-9";
 
     public static void main(String[] args) {
         try {
